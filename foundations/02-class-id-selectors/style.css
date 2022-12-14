@@ -1,0 +1,19 @@
+.oddNumbered {
+    background-color: rgb(245, 163, 200);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: #0000ff;
+    font-size: 36px;
+}
+
+.thirdElement {
+    font-size: 24px;
+}
+
+#forthElement {
+    background-color: hsl(138, 59%, 60%);
+    
+    font-weight: 700;
+}
